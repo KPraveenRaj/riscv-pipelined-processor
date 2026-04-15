@@ -1,0 +1,39 @@
+VCD info: dumpfile sim/results/tb_alu.vcd opened for output.
+
+========== ALU Unit Test ==========
+--- ADD ---
+  PASS [0]: result=30 zero=0
+  PASS [1]: result=0 zero=1
+  PASS [2]: result=0 zero=1
+--- SUB ---
+  PASS [3]: result=20 zero=0
+  PASS [4]: result=0 zero=1
+  PASS [5]: result=4294967291 zero=0
+--- AND ---
+  PASS [6]: result=4026593280 zero=0
+  PASS [7]: result=0 zero=1
+--- OR ---
+  PASS [8]: result=4294901760 zero=0
+  PASS [9]: result=4294967295 zero=0
+--- XOR ---
+  PASS [10]: result=0 zero=1
+  PASS [11]: result=4294967295 zero=0
+--- SLT ---
+  PASS [12]: result=1 zero=0
+  PASS [13]: result=0 zero=1
+  PASS [14]: result=1 zero=0
+--- SLL ---
+  PASS [15]: result=16 zero=0
+  PASS [16]: result=2147483648 zero=0
+--- SRL ---
+  PASS [17]: result=1073741824 zero=0
+  PASS [18]: result=268435455 zero=0
+--- SRA ---
+  PASS [19]: result=3221225472 zero=0
+  PASS [20]: result=4 zero=0
+--- PASSB ---
+  PASS [21]: result=2882396160 zero=0
+
+========== ALU Results: 22 PASSED, 0 FAILED ==========
+
+ALL PASS

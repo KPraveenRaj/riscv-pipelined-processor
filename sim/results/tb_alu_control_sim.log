@@ -1,0 +1,20 @@
+VCD info: dumpfile sim/results/tb_alu_control.vcd opened for output.
+
+========== ALU Control Unit Test ==========
+  PASS [0]: alu_ctrl=0000
+  PASS [1]: alu_ctrl=0001
+  PASS [2]: alu_ctrl=1001
+  PASS [3]: alu_ctrl=0000
+  PASS [4]: alu_ctrl=0001
+  PASS [5]: alu_ctrl=0010
+  PASS [6]: alu_ctrl=0011
+  PASS [7]: alu_ctrl=0100
+  PASS [8]: alu_ctrl=0101
+  PASS [9]: alu_ctrl=0110
+  PASS [10]: alu_ctrl=0111
+  PASS [11]: alu_ctrl=1000
+  PASS [12]: alu_ctrl=0000
+
+========== ALU Control Results: 13 PASSED, 0 FAILED ==========
+
+ALL PASS

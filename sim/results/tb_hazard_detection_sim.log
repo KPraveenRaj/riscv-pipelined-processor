@@ -1,0 +1,13 @@
+VCD info: dumpfile sim/results/tb_hazard_detection.vcd opened for output.
+
+========== Hazard Detection Test ==========
+  PASS [0]: stall=0
+  PASS [1]: stall=1
+  PASS [2]: stall=1
+  PASS [3]: stall=0
+  PASS [4]: stall=0
+  PASS [5]: stall=1
+
+========== HDU Results: 6 PASSED, 0 FAILED ==========
+
+ALL PASS

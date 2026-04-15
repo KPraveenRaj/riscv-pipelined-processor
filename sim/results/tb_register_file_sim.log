@@ -1,0 +1,13 @@
+VCD info: dumpfile sim/results/tb_register_file.vcd opened for output.
+
+========== Register File Test ==========
+  PASS [0]
+  PASS [1]
+  PASS [2]
+  PASS [3]
+  PASS [4]
+  PASS [5]
+
+========== RF Results: 6 PASSED, 0 FAILED ==========
+
+ALL PASS

@@ -1,0 +1,16 @@
+VCD info: dumpfile sim/results/tb_branch_predictor.vcd opened for output.
+
+========== Branch Predictor Test ==========
+  PASS [0]: predict_taken=0
+  PASS [1]: predict_taken=1
+  PASS [2]: predict_taken=1
+  PASS [3]: predict_taken=1
+  PASS [4]: predict_taken=0
+  PASS [5]: predict_taken=0
+  PASS [6]: predict_taken=0
+  PASS [7]: predict_taken=0
+  PASS [8]: predict_taken=0
+
+========== BP Results: 9 PASSED, 0 FAILED ==========
+
+ALL PASS

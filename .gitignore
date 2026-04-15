@@ -1,0 +1,10 @@
+# Claude Code settings
+.claude
+.claude/
+
+# Compiled simulation outputs
+sim/results/*.out
+sim/results/*.vcd
+
+# Keep log files (simulation results)
+!sim/results/*.log

@@ -1,0 +1,16 @@
+VCD info: dumpfile sim/results/tb_forwarding_unit.vcd opened for output.
+
+========== Forwarding Unit Test ==========
+  PASS [0]: fwd_a=00 fwd_b=00
+  PASS [1]: fwd_a=10 fwd_b=00
+  PASS [2]: fwd_a=00 fwd_b=10
+  PASS [3]: fwd_a=01 fwd_b=00
+  PASS [4]: fwd_a=00 fwd_b=01
+  PASS [5]: fwd_a=10 fwd_b=10
+  PASS [6]: fwd_a=00 fwd_b=00
+  PASS [7]: fwd_a=00 fwd_b=00
+  PASS [8]: fwd_a=10 fwd_b=01
+
+========== FWD Results: 9 PASSED, 0 FAILED ==========
+
+ALL PASS

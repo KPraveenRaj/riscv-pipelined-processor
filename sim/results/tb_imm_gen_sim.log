@@ -1,0 +1,17 @@
+VCD info: dumpfile sim/results/tb_imm_gen.vcd opened for output.
+
+========== Immediate Generator Test ==========
+  PASS [0]: imm=0x0000000a
+  PASS [1]: imm=0xffffffff
+  PASS [2]: imm=0x00000000
+  PASS [3]: imm=0x00000004
+  PASS [4]: imm=0xfffffffc
+  PASS [5]: imm=0x00000008
+  PASS [6]: imm=0xfffffffc
+  PASS [7]: imm=0xabcde000
+  PASS [8]: imm=0x0000000c
+  PASS [9]: imm=0xfffffff8
+
+========== ImmGen Results: 10 PASSED, 0 FAILED ==========
+
+ALL PASS
